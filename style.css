@@ -1,0 +1,190 @@
+.strict{
+    color:black;
+    margin-top:42%;
+    margin-left:63%;
+    position:absolute;
+    z-index:3;
+    font-family:monospace;
+    font-size: 15px;
+}
+#strict{
+    margin-top:51%;
+    margin-left: 67%;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    height:5px;
+    width:5px;
+    position:absolute;
+    z-index:3;
+    background-color:#C3CA57;
+    border:3px solid grey;
+}
+.start{
+    color:black;
+    margin-top:42%;
+    margin-left:40%;
+    position:absolute;
+    z-index:3;
+    font-family:monospace;
+    font-size: 15px;
+}
+#start{
+    margin-top:51%;
+    margin-left: 43%;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    height:5px;
+    width:5px;
+    position:absolute;
+    z-index:3;
+    background-color:red;
+    border:3px solid grey;
+ 
+}
+.countWord{
+        color:black;
+        margin-top:32%;
+        margin-left:15%;
+        position:absolute;
+        z-index:3;
+        font-family:monospace;
+        font-size: 15px;
+    }
+#count{
+    margin-top:42%;
+    margin-left: 15%;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    height:40px;
+    width:40px;
+    position:absolute;
+    z-index:2;
+    background-color:#541B15;
+    border:3px solid grey;
+}
+#underOn{
+    margin-top:72%;
+    margin-left: 35%;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    height:20px;
+    width:70px;
+    position:absolute;
+    z-index:2;
+    background-color:silver;
+    border:3px solid grey;
+}
+.on{
+    color:black;
+    margin-top:62%;
+    margin-left:35%;
+    position:absolute;
+    z-index:3;
+    font-family:monospace;
+    font-size: 15px;
+}
+.off{
+    color:black;
+    margin-top:62%;
+    margin-left:55%;
+    position:absolute;
+    z-index:3;
+    font-family:monospace;
+    font-size: 15px;
+}
+#on{
+    margin-top:72%;
+    margin-left: 53%;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    height:20px;
+    width:20px;
+    position:absolute;
+    z-index:3;
+    background-color:#242CB2;
+    border:3px solid grey;
+ 
+}
+.circ3{
+    font-family:'Times New Roman', Times, serif;
+    font-size:40px;
+    text-align:center;
+    color:black;
+    width: 210px;
+    height:210px;
+    background-color:#E7E6E6;
+    z-index:2;
+    position: absolute;
+    margin-left: 3.5%;
+    margin-top:3.5%;
+    border-top-left-radius: 105px;
+    border-top-right-radius:105px;
+    border-bottom-left-radius:105px;
+    border-bottom-right-radius:105px;
+}
+.circ2{
+    width: 225px;
+    height:225px;
+    background-color:grey;
+    z-index:1;
+    position: absolute;
+    margin-left: 6.5%;
+    margin-top:6.5%;
+    border-top-left-radius: 125px;
+    border-top-right-radius:125px;
+    border-bottom-left-radius:125px;
+    border-bottom-right-radius:125px;
+}
+#background{
+    background:linear-gradient(silver,grey);
+} 
+.circle{
+    height: 400px;
+    width: 400px;
+    border-top-left-radius:200px;
+    border-top-right-radius:200px;
+    border-bottom-left-radius:200px;
+    border-bottom-right-radius:200px;
+    background-color: grey;
+    margin-top: 7%;
+    margin-left: 35%;
+    box-shadow:10px 10px 15px black;
+}
+#red{
+    margin-left:20px;
+    height:195px;
+    width:195px;
+    background-color:#A10F01;
+    border-bottom-left-radius: 100%;
+}
+#blue{
+    height:195px;
+    width:195px;
+    background-color:#2C3161;
+    border-bottom-right-radius: 100%;
+}
+#green{
+    margin-left:20px;
+    margin-top: 5px;
+    height:195px;
+    width:195px;
+    background-color:#5FB84B;
+    border-top-left-radius: 100%;
+}
+#yellow{
+    margin-top:5px;  
+    height:195px;
+    width:195px;
+    background-color:#A3A40A;
+    border-top-right-radius: 100%;
+}
